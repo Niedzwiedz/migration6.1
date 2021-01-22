@@ -2,7 +2,7 @@
 
 App showing migration time differences between rails 6.0 and 6.1 when running db:migrate (even when
 no new migrations are present)
-rails 6.0 version
+rails 6.1 version
 
 * Ruby version
 2.7.2
