@@ -24,6 +24,7 @@ rails 6.0 version
 Seed data contains n(currently  4000) number of new tenants/schemas with json inside each of tenats input tables
 
 
+```
 2000 schemas
 _______________________________________________________
 
@@ -36,3 +37,4 @@ ________________________________________________________
 Executed in  663.30 secs   fish           external
    usr time  400.41 millis  164.00 micros  400.25 millis
    sys time  374.97 millis  986.00 micros  373.99 millis
+```
